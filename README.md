@@ -3,6 +3,12 @@
 ## Description
 Snapple is a modern take on the classic Snake game, developed using Python and the Pygame library. In this game, players navigate a snake around the screen, consuming food to grow in size while avoiding collisions with itself and the screen boundaries.
 
+## Screenshots
+![Intro Screen](images/intro_screen.png)
+![Game Screen](images/game_screen.png)
+![Pause Screen](images/pause_screen.png)
+![Game Over Screen](images/game_over.png)
+
 ## Features
 - **Dynamic Gameplay**: The game progressively increases in speed as the player accumulates points.
 - **User-Friendly Interface**: Engaging visuals with an interactive menu and pause functionality.
